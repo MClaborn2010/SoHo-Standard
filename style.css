@@ -7,14 +7,12 @@
 body {
   margin: 80px;
   padding: 0;
-  text-decoration: none;
   font-family: "Oswald", sans-serif;
   font-weight: 300;
   overflow: hidden;
 }
 
 .pageOne {
-  height: 900px;
   overflow: hidden;
   display: flex;
 }
